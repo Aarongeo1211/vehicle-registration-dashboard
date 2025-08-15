@@ -1,4 +1,6 @@
-streamlit==1.22.0
-pandas==1.5.3
-numpy==1.24.3
-plotly==5.14.1
+streamlit>=1.22.0,<2.0.0
+pandas>=1.5.0,<3.0.0
+numpy>=1.24.0,<2.0.0
+plotly>=5.14.0,<6.0.0
+requests>=2.25.0
+rich>=10.14.0
